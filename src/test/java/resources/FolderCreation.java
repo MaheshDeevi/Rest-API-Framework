@@ -8,8 +8,13 @@ public class FolderCreation {
 
 	public static void main(String[] args) {
 		
-		File file = new File(".\\src\\test\\java\\TestResults\\Verifys");
-		file.mkdir();
+		System.out.println("poi1");
+		System.out.println("poi2");
+
+		System.out.println("poi3");
+
+		System.out.println("poi4");
+
 
 	}
 
