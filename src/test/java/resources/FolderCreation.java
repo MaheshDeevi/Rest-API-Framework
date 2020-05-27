@@ -8,9 +8,7 @@ public class FolderCreation {
 
 	public static void main(String[] args) {
 		
-		System.out.println("poi1");
-		System.out.println("poi2");
-
+		
 		System.out.println("poi3");
 
 		System.out.println("poi4");
